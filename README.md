@@ -2,7 +2,7 @@
 
 #### Hello there 👋
 
-#### My name is Paolo Salvatico, i'm a 26 years old, italian Junior Game Progammer.
+#### My name is Paolo Salvatico, I'm a 26 years old, italian Junior Game Progammer.
 
 I would like to show my projects to you
 
@@ -14,10 +14,13 @@ I would like to show my projects to you
 ## A PIRATE'S TAIL
 [click here for details](https://github.com/PaoloSalvatico/PaoloSalvatico/blob/main/Projects/A%20Pirate's%20Tail.md)
 
-<h3 align = "right"> 2021 </h3>
+### 2021
 
-## Tome Keeper
-[click here for details](https://github.com/PaoloSalvatico/PaoloSalvatico/blob/main/Projects/Tome%20Keeper.md)
+<h2 align="center"> Tome Keeper </h2>
 
-## Altar of Blood
+<p align="center">
+<a href="https://github.com/PaoloSalvatico/PaoloSalvatico/blob/main/Projects/Tome%20Keeper.md">click here for details</a>
+</p>
+
+<h2 align="center"> Altar of Blood </h2>
 [click here for details](https://github.com/PaoloSalvatico/PaoloSalvatico/blob/main/Projects/Altar%20of%20Blood.md)
