@@ -27,9 +27,3 @@ I would like to show my projects to you
 <p align="center">
 <a href="https://github.com/PaoloSalvatico/PaoloSalvatico/blob/main/Projects/Tome%20Keeper.md">click here for details</a>
 </p>
-
-<h2 align="center"> ALTAR OF BLOOD </h2>
-
-<p align="center">
-<a href="https://github.com/PaoloSalvatico/PaoloSalvatico/blob/main/Projects/Altar%20of%20Blood.md">click here for details</a>
-</p>
