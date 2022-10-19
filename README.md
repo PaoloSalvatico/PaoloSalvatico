@@ -9,7 +9,17 @@ I would like to show my projects to you
 ### 2022
 
 #### Personal Projects
+<h2 align="center"> Pong </h2>
 
+<p align="center">
+<a href="https://github.com/PaoloSalvatico/Pong_Test">click here for details</a>
+</p>
+
+<h2 align="center"> Endless Run 2D</h2>
+
+<p align="center">
+<a href="https://github.com/PaoloSalvatico/Endless-Run-2D">click here for details</a>
+</p>
 
 <h2 align="center"> 3D Snake </h2>
 
