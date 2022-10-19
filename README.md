@@ -8,6 +8,16 @@ I would like to show my projects to you
 
 ### 2022
 
+#### Personal Projects
+
+
+<h2 align="center"> 3D Snake </h2>
+
+<p align="center">
+<a href="https://github.com/PaoloSalvatico/2022_09_08_backToBusiness">click here for details</a>
+</p>
+
+#### Digital Bros Game Academy Projects
 <h2 align="center"> ASTRALIA </h2>
 
 <p align="center">
@@ -21,7 +31,7 @@ I would like to show my projects to you
 </p>
 
 ### 2021
-
+#### Digital Bros Game Academy Projects
 <h2 align="center"> TOME KEEPER </h2>
 
 <p align="center">
